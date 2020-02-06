@@ -5,7 +5,7 @@
 We are all looking for the next best book to read. As part of the Marketing Analytics Course, we attempted to build a recommendation engine in Python using data obtained from goodreads.
 
 The first step was to perform an indepth exploratory analysis. We then went on to build a naive model based on KNN using cosine similarity and euclidean distance.
-We also built a content based recommendation system using the tf-idf scores from the book description.
+We also built a content based recommendation system using the tf-idf scores derived from the book description.
 Our final model was a item and user based Collaborative Filtering model using Singular Value Decomposition.
 
 All the analysis and model building was performed in Python
